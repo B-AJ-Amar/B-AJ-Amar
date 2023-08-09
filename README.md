@@ -4,13 +4,24 @@ Welcome to my GitHub profile. ElDjalil, a computer science student  in Guelma Un
 
 
 ## Technologies I Work With
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,c,python,django,mongodb,qt,postgres,mysql&theme=light)]()
+<img alt="Git" width="48px" src="icons/Git.svg" />
+<img alt="HTML" width="48px" src="icons/HTML.svg" />
+<img alt="CSS" width="48px" src="icons/CSS.svg" />
+<img alt="JS" width="48px" src="icons/JS.svg" />
+<img alt="C" width="48px" src="icons/C.svg" />
+<img alt="Python" width="48px" src="icons/Py.svg" />
+<img alt="DjangoRest" width="48px" src="icons/Rest.svg" />
+<img alt="Django" width="48px" src="icons/Dj.svg" />
+<img alt="MongoDB" width="48px" src="icons/MongoDB.svg" />
+<img alt="PostgresSQL" width="48px" src="icons/PSQL.svg" />
+<img alt="MySQL" width="48px" src="icons/MySQL.svg" />
+<img alt="pyqt6" width="48px" src="icons/QT.svg" />
 
 
 
 ## Connect with Me
-[<img alt="facebook" width="48px" src="icons/social-media/Linkedin.svg" />](https://www.linkedin.com/in/b-aj-amar/)
-[<img alt="facebook" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/bkz._.amar/)
+[<img alt="linkedin" width="48px" src="icons/social-media/Linkedin.svg" />](https://www.linkedin.com/in/b-aj-amar/)
+[<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/bkz._.amar/)
 [<img alt="facebook" width="48px" src="icons/social-media/Facebook.svg" />](https://www.facebook.com/B.Amar.ADj/)
 [<img alt="gmail" width="48px" src="icons/social-media/Gmail.svg" />](mailto:amarbouakaz91@gmail.com)
 
