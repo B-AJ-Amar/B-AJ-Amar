@@ -11,14 +11,7 @@ Welcome to my GitHub profile. ElDjalil, a computer science student  in Guelma Un
 ## Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/b-aj-amar/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/bkz._.amar/)
-<a href="https://www.facebook.com/B.Amar.ADj/">
-<span>
-<img src="https://github.com/Bkz-Amar/Bkz-Amar/assets/116915426/c3263ba6-e548-4fe9-98e7-61ab9300bd82" alt="facebook" width="48" style="max-width:100%;">
-</span>
-</a>
-<a href="mailto:amarbouakaz91@gmail.com/">
-  <img src="https://github.com/Bkz-Amar/Bkz-Amar/assets/116915426/3527ad03-9787-4a5c-9a8b-47bb32c08bda" alt="gmail" width="48" style="max-width:100%;">
-</a>
+
 <!--
 **Bkz-Amar/Bkz-Amar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
