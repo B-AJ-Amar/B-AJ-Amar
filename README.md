@@ -4,6 +4,7 @@ Welcome to my GitHub profile. ElDjalil, a computer science student  in Guelma Un
 
 
 ## Technologies I Work With
+<span>
 <img alt="Git" width="48px" src="icons/Git.svg" />
 <img alt="HTML" width="48px" src="icons/HTML.svg" />
 <img alt="CSS" width="48px" src="icons/CSS.svg" />
@@ -16,6 +17,7 @@ Welcome to my GitHub profile. ElDjalil, a computer science student  in Guelma Un
 <img alt="PostgresSQL" width="48px" src="icons/PSQL.svg" />
 <img alt="MySQL" width="48px" src="icons/MySQL.svg" />
 <img alt="pyqt6" width="48px" src="icons/QT.svg" />
+</span>
 
 
 
