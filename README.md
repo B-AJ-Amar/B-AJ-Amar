@@ -7,6 +7,7 @@ Welcome to my GitHub profile. ElDjalil, a computer science student  in Guelma Un
 <img alt="Git" width="48px" src="icons/Git.svg" />
 <img alt="HTML" width="48px" src="icons/HTML.svg" />
 <img alt="CSS" width="48px" src="icons/CSS.svg" />
+<img alt="Bootstrap" width="48px" src="icons/Bootstrap.svg" />
 <img alt="JS" width="48px" src="icons/JS.svg" />
 <img alt="C" width="48px" src="icons/C.svg" />
 <img alt="Python" width="48px" src="icons/Py.svg" />
