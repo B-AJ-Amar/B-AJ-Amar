@@ -23,10 +23,11 @@ Welcome to my GitHub profile. ElDjalil, a computer science student  in Guelma Un
 
 
 ## Connect with Me
+[<img alt="gmail" width="48px" src="icons/social-media/Gmail.svg" />](mailto:amarbouakaz91@gmail.com)
+[<img alt="Telegram" width="48px" src="icons/social-media/Telegram.svg" />](https://t.me/Bkz_Amar)
 [<img alt="linkedin" width="48px" src="icons/social-media/Linkedin.svg" />](https://www.linkedin.com/in/b-aj-amar/)
 [<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/bkz._.amar/)
 [<img alt="facebook" width="48px" src="icons/social-media/Facebook.svg" />](https://www.facebook.com/B.Amar.ADj/)
-[<img alt="gmail" width="48px" src="icons/social-media/Gmail.svg" />](mailto:amarbouakaz91@gmail.com)
 
 <!--
 **Bkz-Amar/Bkz-Amar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
