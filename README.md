@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. ElDjalil, a computer science student  in Guelma University. 
+Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in Guelma University. 
 
 
 ## Technologies I Work With
