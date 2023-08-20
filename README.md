@@ -17,6 +17,8 @@ Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in 
 <img alt="MongoDB" width="48px" src="icons/MongoDB.svg" />
 <img alt="PostgresSQL" width="48px" src="icons/PSQL.svg" />
 <img alt="MySQL" width="48px" src="icons/MySQL.svg" />
+<img alt="Redis" width="48px" src="icons/Redis.svg" />
+<img alt="Docker" width="48px" src="icons/Docker.svg" />
 <img alt="pyqt6" width="48px" src="icons/QT.svg" />
 </span>
 
