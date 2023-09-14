@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in 
 [<img alt="gmail" width="48px" src="icons/social-media/Gmail.svg" />](mailto:amarbouakaz91@gmail.com)
 [<img alt="Telegram" width="48px" src="icons/social-media/Telegram.svg" />](https://t.me/Bkz_Amar)
 [<img alt="linkedin" width="48px" src="icons/social-media/Linkedin.svg" />](https://www.linkedin.com/in/b-aj-amar/)
-[<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/bkz._.amar/)
+[<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/b_aj_amar/)
 [<img alt="facebook" width="48px" src="icons/social-media/Facebook.svg" />](https://www.facebook.com/B.Amar.ADj/)
 
 <!--
