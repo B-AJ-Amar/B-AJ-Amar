@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in 
 <span>
 <img alt="HTML" width="48px" src="icons/HTML.svg" />
 <img alt="CSS" width="48px" src="icons/CSS.svg" />
-<img alt="TS" width="48px" src="icons/Typescript.svg" />
+<img alt="TS" width="48px" src="icons/TypeScript.svg" />
 <img alt="JS" width="48px" src="icons/JS.svg" />
 <img alt="C" width="48px" src="icons/C.svg" />
 <img alt="JS" width="48px" src="icons/Java.svg" />
@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in 
 <img alt="DjangoRest" width="48px" src="icons/Rest.svg" />
 <img alt="Django" width="48px" src="icons/Dj.svg" />
 <img alt="ExpressJS" width="48px" src="icons/ExpressJS.svg" />
-<img alt="Graphql" width="48px" src="icons/Graphql.svg" />
+<img alt="Graphql" width="48px" src="icons/GraphQL.svg" />
 <img alt="PostgresSQL" width="48px" src="icons/PSQL.svg" />
 <img alt="MySQL" width="48px" src="icons/MySQL.svg" />
 <img alt="Neo4j" width="48px" src="icons/Neo4j.svg" />
