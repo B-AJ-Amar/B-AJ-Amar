@@ -5,21 +5,25 @@ Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in 
 
 ## Technologies I Work With
 <span>
-<img alt="Git" width="48px" src="icons/Git.svg" />
 <img alt="HTML" width="48px" src="icons/HTML.svg" />
 <img alt="CSS" width="48px" src="icons/CSS.svg" />
-<img alt="Bootstrap" width="48px" src="icons/Bootstrap.svg" />
+<img alt="TS" width="48px" src="icons/Typescript.svg" />
 <img alt="JS" width="48px" src="icons/JS.svg" />
 <img alt="C" width="48px" src="icons/C.svg" />
+<img alt="JS" width="48px" src="icons/Java.svg" />
 <img alt="Python" width="48px" src="icons/Py.svg" />
 <img alt="DjangoRest" width="48px" src="icons/Rest.svg" />
 <img alt="Django" width="48px" src="icons/Dj.svg" />
-<img alt="MongoDB" width="48px" src="icons/MongoDB.svg" />
+<img alt="ExpressJS" width="48px" src="icons/ExpressJS.svg" />
+<img alt="Graphql" width="48px" src="icons/Graphql.svg" />
 <img alt="PostgresSQL" width="48px" src="icons/PSQL.svg" />
 <img alt="MySQL" width="48px" src="icons/MySQL.svg" />
+<img alt="Neo4j" width="48px" src="icons/Neo4j.svg" />
+<img alt="MongoDB" width="48px" src="icons/MongoDB.svg" />
 <img alt="Redis" width="48px" src="icons/Redis.svg" />
-<img alt="Docker" width="48px" src="icons/Docker.svg" />
 <img alt="pyqt6" width="48px" src="icons/QT.svg" />
+<img alt="Git" width="48px" src="icons/Git.svg" />
+<img alt="Docker" width="48px" src="icons/Docker.svg" />
 </span>
 
 
