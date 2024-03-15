@@ -35,6 +35,11 @@ Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in 
 [<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/b_aj_amar/)
 [<img alt="facebook" width="48px" src="icons/social-media/Facebook.svg" />](https://www.facebook.com/B.Amar.ADj/)
 
+
+## GitHub Stats
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=B-AJ-Amar&show_icons=true&theme=dark" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-AJ-Amar&theme=dark&layout=compact" />
+
 <!--
 **Bkz-Amar/Bkz-Amar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -48,12 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--   
-- **Programming Languages :**<br><br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,py,js,cl&theme=dark)]()
-- Web Development:           <br><br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark)]()
-- Backend:                   <br><br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=django&theme=dark)]()
-- Databases:                 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark)]()
-- Version Control:           <br><br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)]()
-- Version Control:           <br><br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=qt&theme=dark)]()
--->
+
 
