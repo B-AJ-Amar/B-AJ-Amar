@@ -1,29 +1,43 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science student  in Guelma University. 
+Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science Engineer (student) . 
 
 
-## Technologies I Work With
+## Technologies I Use
 <span>
-<img alt="HTML" width="48px" src="icons/HTML.svg" />
-<img alt="CSS" width="48px" src="icons/CSS.svg" />
+
+- **Programming Languages:**
+
+<!-- <img alt="HTML" width="48px" src="icons/HTML.svg" />
+<img alt="CSS" width="48px" src="icons/CSS.svg" /> -->
+<img alt="Python" width="48px" src="icons/Py.svg" />
+<img alt="JS" width="48px" src="icons/Java.svg" />
+<img alt="C" width="48px" src="icons/C.svg" />
 <img alt="TS" width="48px" src="icons/TypeScript.svg" />
 <img alt="JS" width="48px" src="icons/JS.svg" />
-<img alt="C" width="48px" src="icons/C.svg" />
-<img alt="JS" width="48px" src="icons/Java.svg" />
-<img alt="Python" width="48px" src="icons/Py.svg" />
-<img alt="DjangoRest" width="48px" src="icons/Rest.svg" />
+
+- **Frameworks and Libraries:**
+
 <img alt="Django" width="48px" src="icons/Dj.svg" />
+<!-- <img alt="DjangoRest" width="48px" src="icons/Rest.svg" /> -->
 <img alt="ExpressJS" width="48px" src="icons/ExpressJS.svg" />
+<img alt="React" width="48px" src="icons/React.svg" />
+<img alt="pyqt6" width="48px" src="icons/QT.svg" />
 <img alt="Graphql" width="48px" src="icons/GraphQL.svg" />
+
+- **Database :**
+
 <img alt="PostgresSQL" width="48px" src="icons/PSQL.svg" />
 <img alt="MySQL" width="48px" src="icons/MySQL.svg" />
 <img alt="Neo4j" width="48px" src="icons/Neo4j.svg" />
 <img alt="MongoDB" width="48px" src="icons/MongoDB.svg" />
 <img alt="Redis" width="48px" src="icons/Redis.svg" />
-<img alt="pyqt6" width="48px" src="icons/QT.svg" />
+
+- **DevOps :**
+
 <img alt="Git" width="48px" src="icons/Git.svg" />
 <img alt="Docker" width="48px" src="icons/Docker.svg" />
+<img alt="Nginx" width="48px" src="icons/Nginx.svg" />
 </span>
 
 
