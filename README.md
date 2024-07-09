@@ -1,26 +1,37 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. I'm Amar ElDjalil, a computer science Engineer (student) . 
+Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (student) . 
 
 
 ## Technologies I Use
 <span>
 
 - **Programming Languages:**
-
 <!-- <img alt="HTML" width="48px" src="icons/HTML.svg" />
 <img alt="CSS" width="48px" src="icons/CSS.svg" /> -->
 <img alt="Python" width="48px" src="icons/Py.svg" />
-<img alt="JS" width="48px" src="icons/Java.svg" />
+<img alt="Java" width="48px" src="icons/Java.svg" />
+<img alt="php" width="48px" src="icons/PHP.svg" />
 <img alt="C" width="48px" src="icons/C.svg" />
 <img alt="TS" width="48px" src="icons/TypeScript.svg" />
 <img alt="JS" width="48px" src="icons/JS.svg" />
 
+
+
+- **AI:**
+  
+<img alt="TensorFlow" width="48px" src="icons/TensorFlow.svg" />
+<img alt="sklean" width="48px" src="icons/SciKitLearn.svg" />
+<img alt="pandas" width="48px" src="icons/pandas.svg" />
+  
+
 - **Frameworks and Libraries:**
 
 <img alt="Django" width="48px" src="icons/Dj.svg" />
-<!-- <img alt="DjangoRest" width="48px" src="icons/Rest.svg" /> -->
+<img alt="DjangoRest" width="48px" src="icons/Rest.svg" />
+<img alt="Django" width="48px" src="icons/FastAPI.svg" />
 <img alt="ExpressJS" width="48px" src="icons/ExpressJS.svg" />
+<img alt="node" width="48px" src="icons/NodeJS.svg" />
 <img alt="React" width="48px" src="icons/React.svg" />
 <img alt="pyqt6" width="48px" src="icons/QT.svg" />
 <img alt="Graphql" width="48px" src="icons/GraphQL.svg" />
