@@ -23,6 +23,7 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 <img alt="TensorFlow" width="48px" src="icons/TensorFlow.svg" />
 <img alt="sklean" width="48px" src="icons/SciKitLearn.svg" />
 <img alt="pandas" width="48px" src="icons/pandas.svg" />
+<img alt="pandas" width="48px" src="icons/langchain-light.svg" />
   
 
 - **Frameworks and Libraries:**
