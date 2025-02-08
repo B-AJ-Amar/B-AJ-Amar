@@ -64,6 +64,9 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 [<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/b_aj_amar/)
 [<img alt="facebook" width="48px" src="icons/social-media/Facebook.svg" />](https://www.facebook.com/B.Amar.ADj/)
 
+## Tryhackme
+
+ <a herf='https://tryhackme.com/p/Amar.AJ'> <img src="https://tryhackme-badges.s3.amazonaws.com/Amar.AJ.png" alt="TryHackMe" /></a>
 
 ## GitHub Stats
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=B-AJ-Amar&show_icons=true&theme=dark" />
