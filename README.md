@@ -62,6 +62,7 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 <img alt="Podman" width="48px" src="icons/podman-light.svg" />
 <img alt="Github-actions" width="48px" src="icons/githubactions-light.svg" />
 <img alt="jenkins" width="48px" src="icons/Jenkins-Light.svg" />
+<img alt="K8s" width="48px" src="icons/kubernetes.svg" />
 <img alt="Nginx" width="48px" src="icons/Nginx.svg" />
 </span>
 
