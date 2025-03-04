@@ -34,6 +34,7 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 <img alt="DjangoRest" width="48px" src="icons/Rest.svg" />
 <img alt="FastAPI" width="48px" src="icons/FastAPI.svg" />
 <img alt="Flask" width="48px" src="icons/Flask.svg" />
+<img alt="Laravel" width="48px" src="icons/laravel.svg" />
 <img alt="ExpressJS" width="48px" src="icons/ExpressJS.svg" />
 <img alt="node" width="48px" src="icons/NodeJS.svg" />
 
