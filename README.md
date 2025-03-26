@@ -68,9 +68,9 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 ---
 
 ## 👨🏻‍💻 Tryhackme:
-
- <a herf='https://tryhackme.com/p/Amar.AJ'> <img src="https://tryhackme-badges.s3.amazonaws.com/Amar.AJ.png" alt="TryHackMe" /></a>
-
+<p align="center">
+ <a herf='https://tryhackme.com/p/Amar.AJ' > <img src="https://tryhackme-badges.s3.amazonaws.com/Amar.AJ.png" alt="TryHackMe" /></a>
+</p>
 
 ---
 
