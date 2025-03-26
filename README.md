@@ -3,7 +3,9 @@
 Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (student) . 
 
 
-## Technologies I Use
+---
+
+## ⚙️ Technologies I Use:
 <span>
 
 - **Programming Languages:**
@@ -63,22 +65,40 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 
 </span>
 
-## Tryhackme
+---
+
+## 👨🏻‍💻 Tryhackme:
 
  <a herf='https://tryhackme.com/p/Amar.AJ'> <img src="https://tryhackme-badges.s3.amazonaws.com/Amar.AJ.png" alt="TryHackMe" /></a>
 
-## Connect with Me
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B-AJ-Amar&show_icons=true&theme=dark" alt="Hanna's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=B-AJ-Amar&hide_border=false&theme=dark" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-AJ-Amar&theme=dark&layout=compact" alt="Top Languages">
+</p>
+
+
+
+---
+
+
+## 🌐 Connect with Me:
+
 [<img alt="gmail" width="48px" src="icons/social-media/Gmail.svg" />](mailto:amarbouakaz91@gmail.com)
 [<img alt="Telegram" width="48px" src="icons/social-media/Telegram.svg" />](https://t.me/B_AJ_Amar)
 [<img alt="linkedin" width="48px" src="icons/social-media/Linkedin.svg" />](https://www.linkedin.com/in/b-aj-amar/)
 [<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/b_aj_amar/)
 [<img alt="facebook" width="48px" src="icons/social-media/Facebook.svg" />](https://www.facebook.com/B.Amar.ADj/)
-
-## GitHub Stats
-
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=B-AJ-Amar&show_icons=true&theme=dark" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-AJ-Amar&theme=dark&layout=compact" />
-
 
 
 
