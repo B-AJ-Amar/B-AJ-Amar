@@ -6,6 +6,8 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 ---
 
 ## ⚙️ Technologies I Use:
+
+
 <span>
 
 - **Programming Languages:**
@@ -18,8 +20,9 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 <img alt="JS" width="48px" src="icons/JS.svg" title="JavaScript - The language of the web, enabling interactive web pages." />
 <img alt="Dark" width="48px" src="icons/dart-light.svg" title="Dart - Optimized for front-end development, mainly used with Flutter." />
 
+
 - **AI:**
-  
+
 <img alt="TensorFlow" width="48px" src="icons/TensorFlow.svg" title="TensorFlow - Open-source machine learning framework." />
 <img alt="sklean" width="48px" src="icons/SciKitLearn.svg" title="Scikit-Learn - Machine learning library for Python." />
 <img alt="pandas" width="48px" src="icons/pandas.svg" title="Pandas - Data analysis and manipulation library for Python." />
@@ -27,6 +30,7 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 <img alt="ollam" width="48px" src="icons/ollama-light.svg" title="Ollama - AI model deployment and management tool." />
 
 - **Backend:**
+
 
 <img alt="Django" width="48px" src="icons/Dj.svg" title="Django - High-level Python web framework." />
 <img alt="DjangoRest" width="48px" src="icons/Rest.svg" title="Django REST Framework - Toolkit for building web APIs in Django." />
@@ -94,18 +98,29 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 
 ## 🌐 Connect with Me:
 
-[<img alt="gmail" width="48px" src="icons/social-media/Gmail.svg" />](mailto:amarbouakaz91@gmail.com)
-[<img alt="Telegram" width="48px" src="icons/social-media/Telegram.svg" />](https://t.me/B_AJ_Amar)
-[<img alt="linkedin" width="48px" src="icons/social-media/Linkedin.svg" />](https://www.linkedin.com/in/b-aj-amar/)
-[<img alt="instagram" width="48px" src="icons/social-media/Instagram.svg" />](https://www.instagram.com/b_aj_amar/)
-[<img alt="facebook" width="48px" src="icons/social-media/Facebook.svg" />](https://www.facebook.com/B.Amar.ADj/)
-
+<p align="center">
+  <a href="mailto:amarbouakaz91@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/b-aj-amar/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/B_AJ_Amar">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://wa.me/+213799510793">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.facebook.com/B.Amar.ADj/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
 
 <!--
 **Bkz-Amar/Bkz-Amar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
