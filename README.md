@@ -80,7 +80,7 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-AJ-Amar&show_icons=true&theme=dark" alt="Hanna's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=B-AJ-Amar&show_icons=true&theme=dark" alt="Amar's GitHub Stats">
 </p>
 
 <p align="center">
