@@ -71,6 +71,14 @@ Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (st
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B-AJ-Amar/B-AJ-Amar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/B-AJ-Amar/B-AJ-Amar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/B-AJ-Amar/B-AJ-Amar/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 👨🏻‍💻 Tryhackme:
 <p align="center">
  <a herf='https://tryhackme.com/p/Amar.AJ' > <img src="https://tryhackme-badges.s3.amazonaws.com/Amar.AJ.png" alt="TryHackMe" /></a>
