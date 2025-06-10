@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. I'm Amar Eldjalil, a computer science Engineer (student) . 
+Welcome to my GitHub profile. I'm Amar Abdeldjalil, a computer science Engineer (student) . 
 
 
 ---
