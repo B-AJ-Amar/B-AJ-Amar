@@ -99,7 +99,9 @@ Welcome to my GitHub profile. I'm Amar Abdeldjalil, a computer science Engineer 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-AJ-Amar&theme=dark&layout=compact" alt="Top Languages">
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=B-AJ-Amar&theme=darkhub&rank=-B,-C,-?&column=-1" alt="GitHub Trophies">
+</p>
 
 ---
 
