@@ -15,6 +15,7 @@ Welcome to my GitHub profile. I'm Amar Abdeldjalil, a computer science Engineer 
 <img alt="Python" width="48px" src="icons/Py.svg" title="Python - Versatile programming language for web, AI, and scripting." />
 <img alt="Java" width="48px" src="icons/Java.svg" title="Java - Object-oriented programming language used in web and Android development." />
 <img alt="php" width="48px" src="icons/PHP.svg" title="PHP - Server-side scripting language for web development." />
+<img alt="Go" width="48px" src="icons/GoLang.svg" title="Go - Efficient, statically typed language designed for scalability and performance, often used in cloud and server-side development." />
 <img alt="C" width="48px" src="icons/C.svg" title="C - Low-level programming language for system programming." />
 <img alt="TS" width="48px" src="icons/TypeScript.svg" title="TypeScript - A superset of JavaScript with static typing." />
 <img alt="JS" width="48px" src="icons/JS.svg" title="JavaScript - The language of the web, enabling interactive web pages." />
