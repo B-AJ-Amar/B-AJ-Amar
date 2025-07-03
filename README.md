@@ -57,6 +57,12 @@ Welcome to my GitHub profile. I'm Amar Abdeldjalil, a computer science Engineer 
 <img alt="MongoDB" width="48px" src="icons/MongoDB.svg" title="MongoDB - NoSQL database for scalable applications." />
 <img alt="Redis" width="48px" src="icons/Redis.svg" title="Redis - In-memory data store used for caching." />
 <img alt="Qdrant" width="48px" src="icons/qdrant-light.svg" title="Qdrant - Vector search database for AI applications." />
+<img alt="Qdrant" width="48px" src="icons/cassandra.svg" title="Cassandra - Distributed NoSQL database for handling large-scale data across many servers." />
+
+- **Messaging / Event Streaming:**
+
+<img alt="rabbitMq" width="48px" src="icons/RabbitMQ-Light.svg" title="RabbitMQ - Message broker for asynchronous communication." />
+<img alt="Kafka" width="48px" src="icons/kafka.svg" title="Kafka - Distributed event streaming platform for high-performance data pipelines." />
 
 - **DevOps:**
 
