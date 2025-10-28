@@ -103,7 +103,7 @@ Welcome to my GitHub profile. I'm Amar Abdeldjalil, a computer science Engineer 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-AJ-Amar&theme=dark&layout=compact&hide=CMake,Jupyter%20Notebook&langs_count=10" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-AJ-Amar&theme=dark&layout=compact&hide=CMake,Jupyter%20Notebook&langs_count=10&exclude_repo=d-commerce-univ" alt="Top Languages">
 </p>
 
 <p align="center">
