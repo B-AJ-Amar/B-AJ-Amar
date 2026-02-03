@@ -20,7 +20,8 @@ Welcome to my GitHub profile. I'm Amar Abdeldjalil, a computer science Engineer 
 <img alt="TS" width="48px" src="icons/TypeScript.svg" title="TypeScript - A superset of JavaScript with static typing." />
 <img alt="JS" width="48px" src="icons/JS.svg" title="JavaScript - The language of the web, enabling interactive web pages." />
 <img alt="Dark" width="48px" src="icons/dart-light.svg" title="Dart - Optimized for front-end development, mainly used with Flutter." />
-
+<a href="https://github.com/daadLang" targer="_blank"><img alt="Dark" width="48px" src="icons/daad.svg" title=" لغة برمجة باللغة العربية
+" /></a>
 
 - **AI:**
 
