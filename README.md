@@ -72,8 +72,11 @@ Welcome to my GitHub profile. I'm Amar Abdeldjalil, a computer science Engineer 
 <img alt="Podman" width="48px" src="icons/podman-light.svg" title="Podman - Alternative to Docker for managing containers." />
 <img alt="Github-actions" width="48px" src="icons/githubactions-light.svg" title="GitHub Actions - Automation and CI/CD tool." />
 <img alt="jenkins" width="48px" src="icons/Jenkins-Light.svg" title="Jenkins - Open-source automation server for CI/CD." />
+<img alt="Terraform" width="48px" src="icons/terraform-light.svg" title="" />
 <img alt="K8s" width="48px" src="icons/kubernetes.svg" title="Kubernetes - Container orchestration platform." />
 <img alt="Nginx" width="48px" src="icons/Nginx.svg" title="Nginx - Web server and reverse proxy." />
+<img alt="Ansible" width="48px" src="icons/ansible.svg" title="" />
+
 
 </span>
 
